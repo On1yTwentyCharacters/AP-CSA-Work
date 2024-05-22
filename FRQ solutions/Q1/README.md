@@ -1,9 +1,11 @@
 # 2024 Question 1
 
 ## This question is about...
+ - Creating a simulation of a birdfeeder and how much food is eaten each day
 
 ## Struggles with this question...
-
+ - Figuring out the 5% chance for a bear to come across and eat all the food
 ## Prior experiences that helped...
-
+ - Using `(int) (Math.random() * (insert number here))` to generate a random integer from 0 to whatever number is in the parenthesis
 ## What I learned by doing this question...
+ - How to use `Math.random()` effectively 
